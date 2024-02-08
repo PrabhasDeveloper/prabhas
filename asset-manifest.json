@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/prabhas/static/css/main.f855e6bc.css",
+    "main.js": "/prabhas/static/js/main.3be362b5.js",
+    "static/js/592.167abb64.chunk.js": "/prabhas/static/js/592.167abb64.chunk.js",
+    "index.html": "/prabhas/index.html",
+    "main.f855e6bc.css.map": "/prabhas/static/css/main.f855e6bc.css.map",
+    "main.3be362b5.js.map": "/prabhas/static/js/main.3be362b5.js.map",
+    "592.167abb64.chunk.js.map": "/prabhas/static/js/592.167abb64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.3be362b5.js"
+  ]
+}
